@@ -1,5 +1,6 @@
 # SampleCalculator
-This is an sample calculator
+Functionality of calculation is achieved using JavaScript
+
 Steps to execute this calculator:
 Download the entire code
 Open up the index.html.
